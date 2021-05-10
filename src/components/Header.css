@@ -1,0 +1,13 @@
+header.header {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: lightblue;
+}
+
+.header .avatar {
+    margin: 4px 16px 4px 0;
+    color: black;
+    background-color: orange;
+    height: 35px;
+}

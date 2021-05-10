@@ -1,0 +1,17 @@
+.convert-tabs {
+    background-color: lightblue;
+    border: 1px solid black;
+    color: black;
+}
+
+.convert-tabs .selected {
+    background-color: #298FCA;
+}
+.convert-tabs .indicator {
+    display: none;
+}
+
+.convert-tabs .tab:first-child {
+    border-right: 1px solid black;
+}
+
